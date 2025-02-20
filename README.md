@@ -60,7 +60,7 @@ Simple-Cat-Dog-Classifier/
 Sample visualization of training loss and accuracy:
 
 ```
-Model Accuracy: 0.95
+Model Accuracy: 0.706
 ```
 
 Confusion matrix of predictions:
